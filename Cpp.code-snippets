@@ -1,0 +1,30 @@
+{
+	"Print to conaole":{
+		"prefix": "cpp-algorithm",   
+		"body": [
+			"/*",
+			" * Copyright © 2021 Xchkoo. All rights reserved.",
+			" *",
+			" * Author: Xchkoo",
+			" * Date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+			" * Remark: Thanks for viewing. welcome to my blog [Xchkoo.top].",
+			" * LICENSE: [CC v4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)",
+			" */",
+			"#include <iostream>",
+			"typedef long long ll;",
+			"typedef size_t s_t;",
+			"#define $0",
+			"const int MAXN = $1;",
+			"",
+			"",	
+			"/*main function: */",
+			"",
+			"int main() {", 
+			"   $2", 
+			"   return 0;",
+			"}",
+			"",
+		],
+		"description": "An algorithm cpp-file-template. "
+	}
+}
